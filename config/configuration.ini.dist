@@ -1,0 +1,11 @@
+[database]
+host = localhost
+username = user
+password = password
+database_name = SOAPDataStore
+sharding_table = SOAPTable
+shards_count = 11
+
+[SOAP]
+location = /server.php
+uri = /

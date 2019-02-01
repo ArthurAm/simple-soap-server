@@ -1,0 +1,7 @@
+{
+    "name": "soap-simple-project/soap-simple-project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"SOAPSimpleProject\\": "src/"}
+    }
+}
